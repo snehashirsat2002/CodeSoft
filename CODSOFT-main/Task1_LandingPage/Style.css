@@ -1,0 +1,789 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: Inter; 
+    font-weight: 400; 
+    font-size: 36px; 
+}
+
+.Header{
+    width: 100vw; 
+    height: 465px; 
+    background: #001F3F;
+}
+
+.Group10{
+    width: 1334px;
+    height: 450px; 
+    left: 15px; 
+    top: 15px; 
+    position: absolute;
+}
+
+.Image4_header{
+    width: 142px; 
+    height: 150.07px; 
+    left: 16px; 
+    top: 0px; 
+    position: absolute; 
+    border-radius: 107px;
+}
+
+.Home_header{
+    width: 107px; 
+    height: 46.50px; 
+    left: 225px; 
+    top: 40px; 
+    position: absolute; 
+    color: white; 
+    word-wrap: break-word;
+}
+
+.Services_header{
+    width: 164px; 
+    height: 46.50px; 
+    left: 868px; 
+    top: 40px; 
+    position: absolute; 
+    color: white; 
+    word-wrap: break-word;
+}
+
+.Internships_header{
+    width: 230px; 
+    height: 46.50px; 
+    left: 536px; 
+    top: 40px; 
+    position: absolute; 
+    color: white; 
+    word-wrap: break-word;
+}
+
+.Jobs_header{
+    width: 130px; 
+    height: 46.50px; 
+    left: 753px; 
+    top: 40px; 
+    position: absolute; 
+    color: white; 
+    word-wrap: break-word;
+}
+
+.AboutUs_header{
+    width: 201px; 
+    height: 46.50px; 
+    left: 359px;
+    top: 40px; 
+    position: absolute; 
+    color: white; 
+    word-wrap: break-word;
+}
+
+.ContactUs_header{
+    width: 233px; 
+    height: 46.50px; 
+    left: 1057px; 
+    top: 40px; 
+    position: absolute; 
+    color: white; 
+    word-wrap: break-word;
+}
+
+.Image3_header{
+    width: 1334px; 
+    height: 287px; 
+    left: 0px; 
+    top: 163px; 
+    position: absolute;
+}
+
+
+.AboutUs{
+    width: 1366px; 
+    height: 546px; 
+    background: white;
+}
+
+.Group11{
+    width: 1334px; 
+    height: 499px; 
+    left: 31px; 
+    top: 0px; 
+    position: relative;
+}
+
+.AboutUs_Heading{
+    left: 474px; 
+    top: 8px; 
+    width: 300px;
+    align-items: center;
+    text-align: center;
+    margin: 0;
+    position: relative; 
+    color: black; 
+    font-size: 64px;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+.AboutUs_Text{
+    width: 715px; 
+    height: 270px; 
+    left: 0px; 
+    top: 106px; 
+    position: relative; 
+    color: black; 
+    word-wrap: break-word;
+}
+
+.Rectangle6 {
+    width: 538.98px; 
+    height: 499px; 
+    left: 765px; 
+    margin-top: -25%; 
+    position: relative;
+
+}
+
+.container{
+    overflow: hidden;
+}
+
+
+.OurInternships_heading{
+    background: white;
+    align-items: center;
+    text-align: center;
+}
+
+/* .Group12{
+    width: 1364px; 
+    height: 1020.54px; 
+    left: 0px; 
+    top: 13px; 
+    position: relative;
+}
+
+.OurInternships{
+    width: 482px; 
+    left: 446px; 
+    top: 0px; 
+    position: absolute; 
+    color: black; 
+    font-size: 64px;
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+
+.Rectangle12{
+    width: 404px; 
+    height: 329px; 
+    left: 0px; 
+    margin-left: 25px;
+    top: 98px; 
+    position: absolute; 
+    background: #D9D9D9;
+    border-radius: 20%;
+}
+
+.Rectangle13{
+    width: 404px; 
+    height: 329px; 
+    left: 0px; 
+    margin-left: 25px;
+    top: 590.98px; 
+    position: absolute; 
+    background: #D9D9D9;
+    border-radius: 20%;
+}
+
+.Rectangle14{
+    width: 404px; 
+    height: 329px; 
+    left: 470.04px; 
+    top: 591.22px; 
+    position: absolute; 
+    background: #D9D9D9;
+    border-radius: 20%;
+}
+
+.Rectangle15{
+    width: 404px; 
+    height: 329px; 
+    left: 918.47px; 
+    top: 590.98px; 
+    position: absolute; 
+    background: #D9D9D9;
+    border-radius: 20%;
+}
+
+.Rectangle16{
+    width: 404px; 
+    height: 329px; 
+    left: 470.04px; 
+    top: 98.02px; 
+    position: absolute; 
+    background: #D9D9D9;
+    border-radius: 20%;
+}
+
+.Rectangle17{
+    width: 404px; 
+    height: 329px; 
+    left: 918.47px; 
+    top: 98px; 
+    position: absolute; 
+    background: #D9D9D9;
+    border-radius: 20%;
+} */
+
+.OurTeam_heading{
+    width: 1366px; 
+    height: 624px; 
+    background: white;
+}
+
+.Group13{
+    width: 1366px; 
+    height: 583px; 
+    left: 0px; 
+    top: 41px; 
+    position: relative;
+    background-image: url("img/img_bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
+
+.OurTeam{
+    width: 293.08px; 
+    height: 83px; 
+    left: 548.46px; 
+    top: 0px; 
+    position: absolute; 
+    color: white; 
+    font-size: 64px;
+    font-weight: 400;
+    word-wrap: break-word;
+
+}
+
+.Rectangle18{
+    width: 404px; 
+    height: 429px; 
+    left: 30px; 
+    top: 99px; 
+    position: absolute; 
+    background: #D9D9D9;
+}
+
+.Rectangle19{
+    width: 404px; 
+    height: 429px; 
+    left: 470.04px; 
+    top: 98.02px; 
+    position: absolute; 
+    background: #D9D9D9;
+}
+
+.Rectangle20{
+    width: 404px; 
+    height: 429px; 
+    left: 918.47px; 
+    top: 98px; 
+    position: absolute; 
+    background: #D9D9D9;
+}
+
+
+
+.ContactUs {
+    width: 1366px; 
+    height: 1432px; 
+    background: white;
+}
+
+.ContactUs_Heading {
+    width: 353px; 
+    height: 82.60px; 
+    left: 543px; 
+    top: 40px; 
+    position: relative; 
+    color: black; 
+    font-size: 64px;
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+
+.Group20 {
+    width: 725px; 
+    height: 1197px; 
+    left: 599px; 
+    top: 186px; 
+    position: relative;
+}
+
+.Group21 {
+    width: 725px; 
+    height: 1197px; 
+    left: 0px; 
+    top: 0px; 
+    position: relative;
+}
+
+.Rectangle21 {
+    width: 725px; 
+    height: 800px; 
+    left: 0px; 
+    top: 0px; 
+    position: relative; 
+    background: #001F3F; 
+    border-radius: 70px;
+    z-index: 0;
+}
+
+.Group19 {
+    width: 668px; 
+    height: 943.69px; 
+    left: 23px; 
+    top: 53px; 
+    position: relative;
+}
+
+.Group19 input,
+.Group19 textarea {
+    outline: none;
+    border: 2px solid black;
+}
+
+.Name {
+    width: 104px; 
+    height: 33px; 
+    left: 0px; 
+    top: 0px; 
+    position: relative; 
+    color: black; 
+    font-size: 30px;
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+
+.EMail {
+    width: 124px; 
+    height: 40px; 
+    left: 0px; 
+    top: 478px; 
+    position: relative; 
+    color: black; 
+    font-size: 30px;
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+
+.Message {
+    width: 156px; 
+    height: 42px; 
+    left: 0px; 
+    top: 716px; 
+    position: relative; 
+    color: black; 
+    font-size: 30px;
+    font-weight: 400; 
+    word-wrap: break-word;;
+}
+
+.Rectangle22{
+    width: 628px; 
+    height: 85px; 
+    left: 40px; 
+    top: 48px; 
+    position: relative; 
+    background: #D9D9D9;
+    border-color: black;
+    z-index: 1;
+}
+
+.Rectangle23 {
+    width: 628px; 
+    height: 85px; 
+    left: 40px; 
+    top: 83px; 
+    position: relative; 
+    background: #D9D9D9;
+    border-color: black;
+    z-index: 1;
+}
+
+.Rectangle24{
+    width: 628px; 
+    height: 85px; 
+    left: 40px; 
+    top: 290px; 
+    position: absolute; 
+    background: #D9D9D9;
+    border-color: black;
+    z-index: 1;
+}
+
+.Rectangle25{
+    width: 628px; 
+    height: 85.82px; 
+    left: 40px; 
+    top: 410px; 
+    position: absolute; 
+    z-index: 1;
+    border-color: black;
+    background: #D9D9D9;
+}
+
+.Submit{
+    left: 309px; 
+    top: 598px; 
+    position: absolute; 
+    color: black; 
+    font-size: 35px; 
+    font-family: Inter; 
+    font-weight: 600; 
+    word-wrap: break-word;
+    margin-left: -40.6px;
+}
+
+.Footer{
+    width: 1366px; 
+    height: 606px;
+    background: #001F3F;
+}
+
+.Group15{ 
+    width:1303px; 
+    height: 554px; 
+    left: 48px; 
+    top: 20px; 
+    position: relative;
+}
+
+.UsefulLinks{
+    width: 506.17px; 
+    left: 0px; 
+    top: 20px; 
+    position: absolute; 
+    color: white; 
+    font-size: 64px; 
+    font-family: Inter; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+
+.UsefulLinks:hover{
+    color: aqua;
+    text-decoration: solid;
+}
+
+.AboutUs_footer{
+    width: 198.71px; 
+    left: 0px; 
+    top: 282px; 
+    position: absolute; 
+    color: white; 
+    font-size: 40px; 
+    font-family: Inter; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+
+.AboutUs_footer:hover{
+    color: aqua;
+}
+
+.Home_footer{
+    width: 166.09px; 
+    left: 0px; 
+    top: 144px; 
+    position: absolute; 
+    color: white; 
+    font-size: 40px; 
+    font-family: Inter; 
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+.Home_footer:hover{
+    color: aqua
+}
+
+.Services_footer{
+    width: 185.86px; 
+    left: 0px; 
+    top: 213px; 
+    position: absolute; 
+    color: white; 
+    font-size: 40px; 
+    font-family: Inter; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+
+.Services_footer:hover{
+    color: aqua
+}
+
+.Jobs_footer{
+    width: 128.52px; 
+    left: 0px; 
+    top: 351px; 
+    position: absolute; 
+    color: white; 
+    font-size: 40px; 
+    font-family: Inter; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+
+
+.Jobs_footer:hover{
+    color: aqua;
+}
+
+
+
+.ContactUs_footer{
+    width: 1402px; 
+    left: 0px; 
+    top: 420px; 
+    position: absolute; 
+    color: white; 
+    font-size: 40px; 
+    font-family: Inter; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+
+.ContactUs_footer:hover{
+    color: aqua;
+}
+
+.ContactInfo_footer{
+    width: 508.15px; 
+    left: 686.10px; 
+    top: 20px; 
+    position: absolute; 
+    color: white; 
+    font-size: 64px; 
+    font-family: Inter; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+
+.ContactInfo_footer:hover{
+    color: aqua;
+}
+
+.InfoInternconnectIn_footer{
+    width: 616.90px; 
+    height: 66px; 
+    left: 686.10px; 
+    top: 144px; 
+    position: absolute; 
+    color: white; 
+    font-size: 40px; 
+    font-family: Inter; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+
+.InfoInternconnectIn_footer:hover{
+    color: aqua;
+}
+
+.Phone_footer{
+    width: 326.24px; 
+    left: 686.10px; 
+    top: 213px; 
+    position: absolute; 
+    color: white; 
+    font-size: 40px; 
+    font-family: Inter; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+
+.Phone_footer:hover{
+    color: aqua;
+}
+
+.Copyright_footer{
+    width: 915.46px; 
+    left: 124px; 
+    top: 510px; 
+    position: absolute; 
+    color: white; 
+    font-size: 36px; 
+    font-family: Inter; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+
+.Copyright_footer:hover{
+    color: aqua;
+}
+
+.form_data{
+    float: right;
+    top: -200px;
+}
+
+.inputBox{
+    display: grid;
+}
+
+.submit_btn{
+    display: grid;
+    font-size: 30px;
+    size: 80px;
+    padding: 5px;
+    font-family: Inter;
+    /* align-items: center;
+    align-content: center; */
+    
+}
+
+.msge_grid{
+    display: grid;
+}
+
+.img {
+    top: 140px;
+}
+
+.firstName {
+    font-size: 30px;
+    size: 80px;
+    padding: 5px;
+    font-family: Inter;
+    margin-bottom: 30px;
+    width: 100%
+}
+
+.lastName {
+    font-size: 30px;
+    size: 80px;
+    padding: 5px;
+    font-family: Inter;
+    margin-bottom: 30px;
+    width:100%;
+}
+
+.emailID {
+    font-size: 30px;
+    size: 80px;
+    padding: 5px;
+    font-family: Inter;
+    margin-bottom: 30px;
+    width: 100%;
+}
+
+.Concern {
+    /* font-size: 30px; */
+    /* size: 80px; */
+    padding: 5px;
+    width: 100%;
+    font-family: Inter;
+    margin-bottom: 30px;
+}
+
+.form {
+    left: 20px;
+}
+
+.img_contact{
+    height: 700px;
+}
+
+.ContactUs{
+    width: 353px; 
+    height: 82.60px; 
+    left: 543px; 
+    top: 0px; 
+    position: relative;
+    color: black; 
+    font-size: 64px; 
+    font-family: Inter; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+
+
+
+
+.card {
+    width: 404px; /* Set the width to 404px */
+    height: 659px; /* Set the height to 429px */
+    display: inline-block;
+    box-shadow: 2px 2px 20px black;
+    border-radius: 5px;
+    /* margin: 2%; */
+    margin-left: 15px;
+    margin-right: 5px;
+    /* margin: 15px; */
+    position: relative;
+}
+
+.img{
+    height: 100%;
+    width: 100%;
+}
+
+.image img {
+    width: 100%;
+    height: 100%; /* Make the image fill the parent div */
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+}
+
+.title{
+
+ text-align: center;
+ padding: 10px;
+ 
+}
+
+h1{
+ font-size: 20px;
+}
+
+.des{
+    padding: 3px;
+    text-align: center;
+    padding-top: 10px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+
+}
+button{
+ margin-top: 40px;
+ margin-bottom: 10px;
+ background-color: white;
+ border: 1px solid black;
+ border-radius: 5px;
+ padding:10px;
+}
+button:hover{
+ background-color: black;
+ color: white;
+ transition: .5s;
+ cursor: pointer;
+}
+
+
+.text_intern{
+    font-size: 18px;
+}
+/* img{
+transition: all .2s ease-in-out; 
+}*/
+
+/* img:hover{
+transform: scale(1.2);
+} */
+
+
